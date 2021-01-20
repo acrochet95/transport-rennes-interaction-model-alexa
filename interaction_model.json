@@ -46,6 +46,9 @@
                         }
                     ],
                     "samples": [
+                        "prochain {bus} à {busstop}",
+                        "quel est le prochain {bus} à {busstop}",
+                        "quand passe le prochain {bus} à {busstop}",
                         "quand passe le prochain bus {bus} à {busstop}",
                         "quel est le prochain bus {bus} à {busstop}",
                         "quand passe le prochain bus à {busstop}",
@@ -1042,13 +1045,13 @@
                         {
                             "id": "4019",
                             "name": {
-                                "value": "25 Fusill�s"
+                                "value": "25 Fusilles"
                             }
                         },
                         {
                             "id": "4020",
                             "name": {
-                                "value": "Abb� Grimault"
+                                "value": "Abbe Grimault"
                             }
                         },
                         {
@@ -1072,13 +1075,13 @@
                         {
                             "id": "4504",
                             "name": {
-                                "value": "Acign� Mairie"
+                                "value": "Acigne Mairie"
                             }
                         },
                         {
                             "id": "4508",
                             "name": {
-                                "value": "Acqu�ts"
+                                "value": "Acquets"
                             }
                         },
                         {
@@ -1216,7 +1219,7 @@
                         {
                             "id": "3879",
                             "name": {
-                                "value": "A�roport"
+                                "value": "Aeroport"
                             }
                         },
                         {
@@ -1252,7 +1255,7 @@
                         {
                             "id": "3406",
                             "name": {
-                                "value": "Basses No�s"
+                                "value": "Basses Noes"
                             }
                         },
                         {
@@ -1270,7 +1273,7 @@
                         {
                             "id": "2756",
                             "name": {
-                                "value": "Beaulieu Cit� U"
+                                "value": "Beaulieu Cite U"
                             }
                         },
                         {
@@ -1330,7 +1333,7 @@
                         {
                             "id": "3254",
                             "name": {
-                                "value": "Belle Arriv�e"
+                                "value": "Belle Arrivee"
                             }
                         },
                         {
@@ -1378,7 +1381,7 @@
                         {
                             "id": "3103",
                             "name": {
-                                "value": "Bersandi�res"
+                                "value": "Bersandieres"
                             }
                         },
                         {
@@ -1414,13 +1417,13 @@
                         {
                             "id": "3139",
                             "name": {
-                                "value": "Betton Vall�e"
+                                "value": "Betton Vallee"
                             }
                         },
                         {
                             "id": "3124",
                             "name": {
-                                "value": "Bigot de Pr�ameneu"
+                                "value": "Bigot de Preameneu"
                             }
                         },
                         {
@@ -1432,7 +1435,7 @@
                         {
                             "id": "3122",
                             "name": {
-                                "value": "Binquenais Coll�ge"
+                                "value": "Binquenais College"
                             }
                         },
                         {
@@ -1450,7 +1453,7 @@
                         {
                             "id": "3604",
                             "name": {
-                                "value": "Bl�s d'Or"
+                                "value": "Bles d'Or"
                             }
                         },
                         {
@@ -1480,7 +1483,7 @@
                         {
                             "id": "9151",
                             "name": {
-                                "value": "Bois Labb�"
+                                "value": "Bois Labbe"
                             }
                         },
                         {
@@ -1498,7 +1501,7 @@
                         {
                             "id": "1734",
                             "name": {
-                                "value": "Boisardi�re"
+                                "value": "Boisardiere"
                             }
                         },
                         {
@@ -1510,7 +1513,7 @@
                         {
                             "id": "1682",
                             "name": {
-                                "value": "Bossardi�re"
+                                "value": "Bossardiere"
                             }
                         },
                         {
@@ -1528,7 +1531,7 @@
                         {
                             "id": "1676",
                             "name": {
-                                "value": "Boulais Pocheti�re"
+                                "value": "Boulais Pochetiere"
                             }
                         },
                         {
@@ -1552,7 +1555,7 @@
                         {
                             "id": "1630",
                             "name": {
-                                "value": "Bourgbarr� Mairie"
+                                "value": "Bourgbarre Mairie"
                             }
                         },
                         {
@@ -1588,7 +1591,7 @@
                         {
                             "id": "1569",
                             "name": {
-                                "value": "Boussardi�re"
+                                "value": "Boussardiere"
                             }
                         },
                         {
@@ -1630,19 +1633,19 @@
                         {
                             "id": "1539",
                             "name": {
-                                "value": "Bretonni�re"
+                                "value": "Bretonniere"
                             }
                         },
                         {
                             "id": "1529",
                             "name": {
-                                "value": "Broc�liande"
+                                "value": "Broceliande"
                             }
                         },
                         {
                             "id": "1534",
                             "name": {
-                                "value": "Brosse All�e"
+                                "value": "Brosse Allee"
                             }
                         },
                         {
@@ -1666,7 +1669,7 @@
                         {
                             "id": "1494",
                             "name": {
-                                "value": "Br�quigny Piscine"
+                                "value": "Brequigny Piscine"
                             }
                         },
                         {
@@ -1678,13 +1681,13 @@
                         {
                             "id": "1493",
                             "name": {
-                                "value": "B�cherel Centre"
+                                "value": "Becherel Centre"
                             }
                         },
                         {
                             "id": "1487",
                             "name": {
-                                "value": "B�cherel Ecole"
+                                "value": "Becherel Ecole"
                             }
                         },
                         {
@@ -1702,7 +1705,7 @@
                         {
                             "id": "1467",
                             "name": {
-                                "value": "Callou�t"
+                                "value": "Callouet"
                             }
                         },
                         {
@@ -1732,7 +1735,7 @@
                         {
                             "id": "1452",
                             "name": {
-                                "value": "Carr� Dumaine"
+                                "value": "Carre Dumaine"
                             }
                         },
                         {
@@ -1756,13 +1759,13 @@
                         {
                             "id": "1426",
                             "name": {
-                                "value": "Centre M�t�o"
+                                "value": "Centre Meteo"
                             }
                         },
                         {
                             "id": "1414",
                             "name": {
-                                "value": "Centre scolaire Pac�"
+                                "value": "Centre scolaire Pace"
                             }
                         },
                         {
@@ -1774,7 +1777,7 @@
                         {
                             "id": "1419",
                             "name": {
-                                "value": "Cesson Coll�ge"
+                                "value": "Cesson College"
                             }
                         },
                         {
@@ -1786,7 +1789,7 @@
                         {
                             "id": "1397",
                             "name": {
-                                "value": "Cesson H�pital Priv�"
+                                "value": "Cesson Hopital Prive"
                             }
                         },
                         {
@@ -1864,7 +1867,7 @@
                         {
                             "id": "1319",
                             "name": {
-                                "value": "Champ No�l"
+                                "value": "Champ Noel"
                             }
                         },
                         {
@@ -1882,13 +1885,13 @@
                         {
                             "id": "1310",
                             "name": {
-                                "value": "Champel�"
+                                "value": "Champele"
                             }
                         },
                         {
                             "id": "1296",
                             "name": {
-                                "value": "Champion de Cic�"
+                                "value": "Champion de Cice"
                             }
                         },
                         {
@@ -1924,7 +1927,7 @@
                         {
                             "id": "1265",
                             "name": {
-                                "value": "Champs P�ans"
+                                "value": "Champs Peans"
                             }
                         },
                         {
@@ -1942,7 +1945,7 @@
                         {
                             "id": "1244",
                             "name": {
-                                "value": "Chapelle-Chauss�e"
+                                "value": "Chapelle-Chaussee"
                             }
                         },
                         {
@@ -2014,13 +2017,13 @@
                         {
                             "id": "1194",
                             "name": {
-                                "value": "Chevaign� Gare"
+                                "value": "Chevaigne Gare"
                             }
                         },
                         {
                             "id": "1188",
                             "name": {
-                                "value": "Chevaign� Mairie"
+                                "value": "Chevaigne Mairie"
                             }
                         },
                         {
@@ -2044,121 +2047,121 @@
                         {
                             "id": "1180",
                             "name": {
-                                "value": "CHP Saint-Gr�goire"
+                                "value": "CHP Saint-Gregoire"
                             }
                         },
                         {
                             "id": "1172",
                             "name": {
-                                "value": "Ch�taigneraie"
+                                "value": "Chataigneraie"
                             }
                         },
                         {
                             "id": "1168",
                             "name": {
-                                "value": "Ch�teau d'Eau"
+                                "value": "Chateau d'Eau"
                             }
                         },
                         {
                             "id": "1161",
                             "name": {
-                                "value": "Ch�teau de Vaux"
+                                "value": "Chateau de Vaux"
                             }
                         },
                         {
                             "id": "1158",
                             "name": {
-                                "value": "Ch�teau Monniais"
+                                "value": "Chateau Monniais"
                             }
                         },
                         {
                             "id": "1147",
                             "name": {
-                                "value": "Ch�teaudun"
+                                "value": "Chateaudun"
                             }
                         },
                         {
                             "id": "1139",
                             "name": {
-                                "value": "Ch�teliers"
+                                "value": "Chateliers"
                             }
                         },
                         {
                             "id": "1130",
                             "name": {
-                                "value": "Ch�tillon"
+                                "value": "Chatillon"
                             }
                         },
                         {
                             "id": "1126",
                             "name": {
-                                "value": "Ch�ques Postaux"
+                                "value": "Cheques Postaux"
                             }
                         },
                         {
                             "id": "1118",
                             "name": {
-                                "value": "Ch�ne aux dames"
+                                "value": "Chene aux dames"
                             }
                         },
                         {
                             "id": "1099",
                             "name": {
-                                "value": "Ch�ne Centenaire"
+                                "value": "Chene Centenaire"
                             }
                         },
                         {
                             "id": "1092",
                             "name": {
-                                "value": "Ch�ne Germain"
+                                "value": "Chene Germain"
                             }
                         },
                         {
                             "id": "1090",
                             "name": {
-                                "value": "Ch�ne Herv�"
+                                "value": "Chene Herve"
                             }
                         },
                         {
                             "id": "1080",
                             "name": {
-                                "value": "Ch�ne Lierru"
+                                "value": "Chene Lierru"
                             }
                         },
                         {
                             "id": "1061",
                             "name": {
-                                "value": "Ch�ne Vert"
+                                "value": "Chene Vert"
                             }
                         },
                         {
                             "id": "1051",
                             "name": {
-                                "value": "Cic� Blossac"
+                                "value": "Cice Blossac"
                             }
                         },
                         {
                             "id": "1052",
                             "name": {
-                                "value": "Cimeti�re de l'Est"
+                                "value": "Cimetiere de l'Est"
                             }
                         },
                         {
                             "id": "1046",
                             "name": {
-                                "value": "Cimeti�re Nord"
+                                "value": "Cimetiere Nord"
                             }
                         },
                         {
                             "id": "1040",
                             "name": {
-                                "value": "Cit� des Jardins"
+                                "value": "Cite des Jardins"
                             }
                         },
                         {
                             "id": "1029",
                             "name": {
-                                "value": "Cit� Judiciaire"
+                                "value": "Cite Judiciaire"
                             }
                         },
                         {
@@ -2254,49 +2257,49 @@
                         {
                             "id": "2541",
                             "name": {
-                                "value": "Coll�ge Brassens"
+                                "value": "College Brassens"
                             }
                         },
                         {
                             "id": "2542",
                             "name": {
-                                "value": "Coll�ge Cleunay"
+                                "value": "College Cleunay"
                             }
                         },
                         {
                             "id": "2525",
                             "name": {
-                                "value": "Coll�ge Jean Moulin"
+                                "value": "College Jean Moulin"
                             }
                         },
                         {
                             "id": "2518",
                             "name": {
-                                "value": "Coll�ge P�le Sud"
+                                "value": "College Pole Sud"
                             }
                         },
                         {
                             "id": "2507",
                             "name": {
-                                "value": "Coll�ge Rosa-Parks"
+                                "value": "College Rosa-Parks"
                             }
                         },
                         {
                             "id": "2509",
                             "name": {
-                                "value": "Coll�ge R�cipon"
+                                "value": "College Recipon"
                             }
                         },
                         {
                             "id": "6000",
                             "name": {
-                                "value": "Coll�ge Saint-Paul"
+                                "value": "College Saint-Paul"
                             }
                         },
                         {
                             "id": "6003",
                             "name": {
-                                "value": "Coll�ge St-Yves"
+                                "value": "College St-Yves"
                             }
                         },
                         {
@@ -2320,13 +2323,13 @@
                         {
                             "id": "4367",
                             "name": {
-                                "value": "Constant M�rel"
+                                "value": "Constant Merel"
                             }
                         },
                         {
                             "id": "4360",
                             "name": {
-                                "value": "Corbi�res"
+                                "value": "Corbieres"
                             }
                         },
                         {
@@ -2470,7 +2473,7 @@
                         {
                             "id": "2216",
                             "name": {
-                                "value": "Croix Saint-H�lier"
+                                "value": "Croix Saint-Helier"
                             }
                         },
                         {
@@ -2500,13 +2503,13 @@
                         {
                             "id": "2206",
                             "name": {
-                                "value": "Cucill�"
+                                "value": "Cucille"
                             }
                         },
                         {
                             "id": "3951",
                             "name": {
-                                "value": "Cuc�"
+                                "value": "Cuce"
                             }
                         },
                         {
@@ -2518,7 +2521,7 @@
                         {
                             "id": "3801",
                             "name": {
-                                "value": "C�teaux"
+                                "value": "Coteaux"
                             }
                         },
                         {
@@ -2572,7 +2575,7 @@
                         {
                             "id": "3321",
                             "name": {
-                                "value": "Docteur L�on"
+                                "value": "Docteur Leon"
                             }
                         },
                         {
@@ -2596,7 +2599,7 @@
                         {
                             "id": "4406",
                             "name": {
-                                "value": "Doneli�re"
+                                "value": "Doneliere"
                             }
                         },
                         {
@@ -2614,7 +2617,7 @@
                         {
                             "id": "3766",
                             "name": {
-                                "value": "Doubl�"
+                                "value": "Double"
                             }
                         },
                         {
@@ -2644,7 +2647,7 @@
                         {
                             "id": "4151",
                             "name": {
-                                "value": "D�coparc"
+                                "value": "Decoparc"
                             }
                         },
                         {
@@ -2668,7 +2671,7 @@
                         {
                             "id": "2303",
                             "name": {
-                                "value": "Egalit�"
+                                "value": "Egalite"
                             }
                         },
                         {
@@ -2692,13 +2695,13 @@
                         {
                             "id": "2372",
                             "name": {
-                                "value": "Erboni�re"
+                                "value": "Erboniere"
                             }
                         },
                         {
                             "id": "2367",
                             "name": {
-                                "value": "ESAT La Hauti�re"
+                                "value": "ESAT La Hautiere"
                             }
                         },
                         {
@@ -2728,7 +2731,7 @@
                         {
                             "id": "2331",
                             "name": {
-                                "value": "Etangs d'Apign�"
+                                "value": "Etangs d'Apigne"
                             }
                         },
                         {
@@ -2800,13 +2803,13 @@
                         {
                             "id": "2079",
                             "name": {
-                                "value": "Fosse Gauch�re"
+                                "value": "Fosse Gauchere"
                             }
                         },
                         {
                             "id": "2083",
                             "name": {
-                                "value": "Foss�s"
+                                "value": "Fosses"
                             }
                         },
                         {
@@ -2842,7 +2845,7 @@
                         {
                             "id": "2054",
                             "name": {
-                                "value": "Fran�ois Ch�teau"
+                                "value": "Francois Chateau"
                             }
                         },
                         {
@@ -2860,31 +2863,31 @@
                         {
                             "id": "2044",
                             "name": {
-                                "value": "Fr�res Aubert"
+                                "value": "Freres Aubert"
                             }
                         },
                         {
                             "id": "2045",
                             "name": {
-                                "value": "Fr�res Moine"
+                                "value": "Freres Moine"
                             }
                         },
                         {
                             "id": "2042",
                             "name": {
-                                "value": "Fr�till�"
+                                "value": "Fretille"
                             }
                         },
                         {
                             "id": "2033",
                             "name": {
-                                "value": "F�lix Ebou�"
+                                "value": "Felix Eboue"
                             }
                         },
                         {
                             "id": "2031",
                             "name": {
-                                "value": "Gait�"
+                                "value": "Gaite"
                             }
                         },
                         {
@@ -2902,7 +2905,7 @@
                         {
                             "id": "2015",
                             "name": {
-                                "value": "Gare Sud F�val"
+                                "value": "Gare Sud Feval"
                             }
                         },
                         {
@@ -2968,13 +2971,13 @@
                         {
                             "id": "3020",
                             "name": {
-                                "value": "Gentilhommi�re"
+                                "value": "Gentilhommiere"
                             }
                         },
                         {
                             "id": "3015",
                             "name": {
-                                "value": "Gen�ts"
+                                "value": "Genets"
                             }
                         },
                         {
@@ -2998,13 +3001,13 @@
                         {
                             "id": "4259",
                             "name": {
-                                "value": "Gingouill�re"
+                                "value": "Gingouillere"
                             }
                         },
                         {
                             "id": "4262",
                             "name": {
-                                "value": "Ginguen�"
+                                "value": "Ginguene"
                             }
                         },
                         {
@@ -3052,13 +3055,13 @@
                         {
                             "id": "2908",
                             "name": {
-                                "value": "Grippi�re"
+                                "value": "Grippiere"
                             }
                         },
                         {
                             "id": "2912",
                             "name": {
-                                "value": "Gros Ch�ne"
+                                "value": "Gros Chene"
                             }
                         },
                         {
@@ -3070,7 +3073,7 @@
                         {
                             "id": "4607",
                             "name": {
-                                "value": "Gr�e Barel"
+                                "value": "Gree Barel"
                             }
                         },
                         {
@@ -3094,43 +3097,43 @@
                         {
                             "id": "4011",
                             "name": {
-                                "value": "Gu�henno"
+                                "value": "Guehenno"
                             }
                         },
                         {
                             "id": "4004",
                             "name": {
-                                "value": "Gu�rinais"
+                                "value": "Guerinais"
                             }
                         },
                         {
                             "id": "4503",
                             "name": {
-                                "value": "G�niaux"
+                                "value": "Geniaux"
                             }
                         },
                         {
                             "id": "4513",
                             "name": {
-                                "value": "G�niaux Ev"
+                                "value": "Geniaux Ev"
                             }
                         },
                         {
                             "id": "4302",
                             "name": {
-                                "value": "G�riatrie"
+                                "value": "Geriatrie"
                             }
                         },
                         {
                             "id": "4323",
                             "name": {
-                                "value": "G�vez� Clairville"
+                                "value": "Geveze Clairville"
                             }
                         },
                         {
                             "id": "4320",
                             "name": {
-                                "value": "G�vez� Mairie"
+                                "value": "Geveze Mairie"
                             }
                         },
                         {
@@ -3166,7 +3169,7 @@
                         {
                             "id": "4762",
                             "name": {
-                                "value": "Haut Gripp�"
+                                "value": "Haut Grippe"
                             }
                         },
                         {
@@ -3184,7 +3187,7 @@
                         {
                             "id": "4712",
                             "name": {
-                                "value": "Haut Sanc�"
+                                "value": "Haut Sance"
                             }
                         },
                         {
@@ -3214,7 +3217,7 @@
                         {
                             "id": "4950",
                             "name": {
-                                "value": "Hauti�re"
+                                "value": "Hautiere"
                             }
                         },
                         {
@@ -3232,7 +3235,7 @@
                         {
                             "id": "3503",
                             "name": {
-                                "value": "Henri Fr�ville"
+                                "value": "Henri Freville"
                             }
                         },
                         {
@@ -3268,13 +3271,13 @@
                         {
                             "id": "3511",
                             "name": {
-                                "value": "Houx Cit� U"
+                                "value": "Houx Cite U"
                             }
                         },
                         {
                             "id": "3869",
                             "name": {
-                                "value": "Huberdi�res"
+                                "value": "Huberdieres"
                             }
                         },
                         {
@@ -3292,43 +3295,43 @@
                         {
                             "id": "3863",
                             "name": {
-                                "value": "H�lias"
+                                "value": "Helias"
                             }
                         },
                         {
                             "id": "3404",
                             "name": {
-                                "value": "H�roni�re"
+                                "value": "Heroniere"
                             }
                         },
                         {
                             "id": "3426",
                             "name": {
-                                "value": "H�pital R�gnier"
+                                "value": "Hopital Regnier"
                             }
                         },
                         {
                             "id": "3424",
                             "name": {
-                                "value": "H�pital Sud"
+                                "value": "Hopital Sud"
                             }
                         },
                         {
                             "id": "2704",
                             "name": {
-                                "value": "H�tel de R�gion"
+                                "value": "Hotel de Region"
                             }
                         },
                         {
                             "id": "2774",
                             "name": {
-                                "value": "H�tel Dieu"
+                                "value": "Hotel Dieu"
                             }
                         },
                         {
                             "id": "2764",
                             "name": {
-                                "value": "H�tel Dieu Ev"
+                                "value": "Hotel Dieu Ev"
                             }
                         },
                         {
@@ -3358,13 +3361,13 @@
                         {
                             "id": "2733",
                             "name": {
-                                "value": "Iz�"
+                                "value": "Ize"
                             }
                         },
                         {
                             "id": "2726",
                             "name": {
-                                "value": "J. S�bastien Bach"
+                                "value": "J. Sebastien Bach"
                             }
                         },
                         {
@@ -3394,7 +3397,7 @@
                         {
                             "id": "3202",
                             "name": {
-                                "value": "Jean Jaur�s"
+                                "value": "Jean Jaures"
                             }
                         },
                         {
@@ -3508,7 +3511,7 @@
                         {
                             "id": "3606",
                             "name": {
-                                "value": "L'Hermiti�re Village"
+                                "value": "L'Hermitiere Village"
                             }
                         },
                         {
@@ -3550,7 +3553,7 @@
                         {
                             "id": "9140",
                             "name": {
-                                "value": "La Coul�e"
+                                "value": "La Coulee"
                             }
                         },
                         {
@@ -3562,7 +3565,7 @@
                         {
                             "id": "9119",
                             "name": {
-                                "value": "La Cri�e"
+                                "value": "La Criee"
                             }
                         },
                         {
@@ -3628,7 +3631,7 @@
                         {
                             "id": "1664",
                             "name": {
-                                "value": "La No�"
+                                "value": "La Noe"
                             }
                         },
                         {
@@ -3658,7 +3661,7 @@
                         {
                             "id": "4010",
                             "name": {
-                                "value": "La Renardi�re"
+                                "value": "La Renardiere"
                             }
                         },
                         {
@@ -3688,13 +3691,13 @@
                         {
                             "id": "4531",
                             "name": {
-                                "value": "Laill� Coll�ge"
+                                "value": "Laille College"
                             }
                         },
                         {
                             "id": "1633",
                             "name": {
-                                "value": "Laill� Eglise"
+                                "value": "Laille Eglise"
                             }
                         },
                         {
@@ -3712,13 +3715,13 @@
                         {
                             "id": "4303",
                             "name": {
-                                "value": "Lande de Pin�on"
+                                "value": "Lande de Pincon"
                             }
                         },
                         {
                             "id": "1622",
                             "name": {
-                                "value": "Lande de Vill�"
+                                "value": "Lande de Ville"
                             }
                         },
                         {
@@ -3808,7 +3811,7 @@
                         {
                             "id": "1575",
                             "name": {
-                                "value": "La�nnec"
+                                "value": "Laennec"
                             }
                         },
                         {
@@ -3838,7 +3841,7 @@
                         {
                             "id": "4727",
                             "name": {
-                                "value": "Le Gobign�"
+                                "value": "Le Gobigne"
                             }
                         },
                         {
@@ -3850,7 +3853,7 @@
                         {
                             "id": "1574",
                             "name": {
-                                "value": "Le H�"
+                                "value": "Le Ho"
                             }
                         },
                         {
@@ -3886,7 +3889,7 @@
                         {
                             "id": "1556",
                             "name": {
-                                "value": "Le P�tis"
+                                "value": "Le Patis"
                             }
                         },
                         {
@@ -3988,19 +3991,19 @@
                         {
                             "id": "3423",
                             "name": {
-                                "value": "Les Pr�ales"
+                                "value": "Les Preales"
                             }
                         },
                         {
                             "id": "3418",
                             "name": {
-                                "value": "Les Vall�es"
+                                "value": "Les Vallees"
                             }
                         },
                         {
                             "id": "1459",
                             "name": {
-                                "value": "Leuzi�res"
+                                "value": "Leuzieres"
                             }
                         },
                         {
@@ -4012,13 +4015,13 @@
                         {
                             "id": "1446",
                             "name": {
-                                "value": "Libert� Ev"
+                                "value": "Liberte Ev"
                             }
                         },
                         {
                             "id": "2772",
                             "name": {
-                                "value": "Libert� TNB"
+                                "value": "Liberte TNB"
                             }
                         },
                         {
@@ -4054,7 +4057,7 @@
                         {
                             "id": "2750",
                             "name": {
-                                "value": "Longs Pr�s"
+                                "value": "Longs Pres"
                             }
                         },
                         {
@@ -4072,67 +4075,67 @@
                         {
                             "id": "1421",
                             "name": {
-                                "value": "Lyc�e Basch"
+                                "value": "Lycee Basch"
                             }
                         },
                         {
                             "id": "2755",
                             "name": {
-                                "value": "Lyc�e Br�quigny"
+                                "value": "Lycee Brequigny"
                             }
                         },
                         {
                             "id": "1425",
                             "name": {
-                                "value": "Lyc�e Descartes"
+                                "value": "Lycee Descartes"
                             }
                         },
                         {
                             "id": "1413",
                             "name": {
-                                "value": "Lyc�e Mend�s France"
+                                "value": "Lycee Mendes France"
                             }
                         },
                         {
                             "id": "2735",
                             "name": {
-                                "value": "Lyc�e Monod"
+                                "value": "Lycee Monod"
                             }
                         },
                         {
                             "id": "1409",
                             "name": {
-                                "value": "Lyc�e Ozanam"
+                                "value": "Lycee Ozanam"
                             }
                         },
                         {
                             "id": "2723",
                             "name": {
-                                "value": "Lyc�e St-Exup�ry"
+                                "value": "Lycee St-Exupery"
                             }
                         },
                         {
                             "id": "1402",
                             "name": {
-                                "value": "Lyc�e S�vign�"
+                                "value": "Lycee Sevigne"
                             }
                         },
                         {
                             "id": "2721",
                             "name": {
-                                "value": "Lyc�e Zola"
+                                "value": "Lycee Zola"
                             }
                         },
                         {
                             "id": "1403",
                             "name": {
-                                "value": "Lyc�e Zola Ev"
+                                "value": "Lycee Zola Ev"
                             }
                         },
                         {
                             "id": "1398",
                             "name": {
-                                "value": "L�onard"
+                                "value": "Leonard"
                             }
                         },
                         {
@@ -4150,19 +4153,19 @@
                         {
                             "id": "2719",
                             "name": {
-                                "value": "Mail Lanc�"
+                                "value": "Mail Lance"
                             }
                         },
                         {
                             "id": "1394",
                             "name": {
-                                "value": "Maillardi�re"
+                                "value": "Maillardiere"
                             }
                         },
                         {
                             "id": "2715",
                             "name": {
-                                "value": "Maingu�re"
+                                "value": "Mainguere"
                             }
                         },
                         {
@@ -4180,7 +4183,7 @@
                         {
                             "id": "3206",
                             "name": {
-                                "value": "Maison Dioc�saine"
+                                "value": "Maison Diocesaine"
                             }
                         },
                         {
@@ -4234,7 +4237,7 @@
                         {
                             "id": "3148",
                             "name": {
-                                "value": "Mare Pav�e"
+                                "value": "Mare Pavee"
                             }
                         },
                         {
@@ -4246,13 +4249,13 @@
                         {
                             "id": "3162",
                             "name": {
-                                "value": "Martign�"
+                                "value": "Martigne"
                             }
                         },
                         {
                             "id": "1372",
                             "name": {
-                                "value": "Martini�re"
+                                "value": "Martiniere"
                             }
                         },
                         {
@@ -4300,7 +4303,7 @@
                         {
                             "id": "1331",
                             "name": {
-                                "value": "MFR Rabinardi�res"
+                                "value": "MFR Rabinardieres"
                             }
                         },
                         {
@@ -4336,13 +4339,13 @@
                         {
                             "id": "9153",
                             "name": {
-                                "value": "Moign�"
+                                "value": "Moigne"
                             }
                         },
                         {
                             "id": "1317",
                             "name": {
-                                "value": "Mol�ne"
+                                "value": "Molene"
                             }
                         },
                         {
@@ -4396,7 +4399,7 @@
                         {
                             "id": "1289",
                             "name": {
-                                "value": "Monts d'Arr�e"
+                                "value": "Monts d'Arree"
                             }
                         },
                         {
@@ -4438,7 +4441,7 @@
                         {
                             "id": "1261",
                             "name": {
-                                "value": "Mordelles P�tis"
+                                "value": "Mordelles Patis"
                             }
                         },
                         {
@@ -4456,7 +4459,7 @@
                         {
                             "id": "1263",
                             "name": {
-                                "value": "Motte Br�lon"
+                                "value": "Motte Brulon"
                             }
                         },
                         {
@@ -4468,7 +4471,7 @@
                         {
                             "id": "1260",
                             "name": {
-                                "value": "Moulin de Jou�"
+                                "value": "Moulin de Joue"
                             }
                         },
                         {
@@ -4480,7 +4483,7 @@
                         {
                             "id": "4510",
                             "name": {
-                                "value": "Mou�zy"
+                                "value": "Mouezy"
                             }
                         },
                         {
@@ -4498,55 +4501,55 @@
                         {
                             "id": "1235",
                             "name": {
-                                "value": "Musset Cit� U"
+                                "value": "Musset Cite U"
                             }
                         },
                         {
                             "id": "4324",
                             "name": {
-                                "value": "Mus�e Beaux Arts"
+                                "value": "Musee Beaux Arts"
                             }
                         },
                         {
                             "id": "1711",
                             "name": {
-                                "value": "Mus�e Beaux Arts Ev"
+                                "value": "Musee Beaux Arts Ev"
                             }
                         },
                         {
                             "id": "1236",
                             "name": {
-                                "value": "M�diath�que"
+                                "value": "Mediatheque"
                             }
                         },
                         {
                             "id": "4319",
                             "name": {
-                                "value": "M�nouriais"
+                                "value": "Menouriais"
                             }
                         },
                         {
                             "id": "1222",
                             "name": {
-                                "value": "M�tairie"
+                                "value": "Metairie"
                             }
                         },
                         {
                             "id": "4315",
                             "name": {
-                                "value": "M�tairies Chalotais"
+                                "value": "Metairies Chalotais"
                             }
                         },
                         {
                             "id": "1699",
                             "name": {
-                                "value": "M�trie"
+                                "value": "Metrie"
                             }
                         },
                         {
                             "id": "1223",
                             "name": {
-                                "value": "M�zi�res"
+                                "value": "Mezieres"
                             }
                         },
                         {
@@ -4564,7 +4567,7 @@
                         {
                             "id": "1224",
                             "name": {
-                                "value": "Nomino�"
+                                "value": "Nominoe"
                             }
                         },
                         {
@@ -4576,7 +4579,7 @@
                         {
                             "id": "4742",
                             "name": {
-                                "value": "Norv�ge"
+                                "value": "Norvege"
                             }
                         },
                         {
@@ -4588,19 +4591,19 @@
                         {
                             "id": "4716",
                             "name": {
-                                "value": "No�"
+                                "value": "Noe"
                             }
                         },
                         {
                             "id": "1674",
                             "name": {
-                                "value": "No� Biche"
+                                "value": "Noe Biche"
                             }
                         },
                         {
                             "id": "1205",
                             "name": {
-                                "value": "No� Diol�"
+                                "value": "Noe Diole"
                             }
                         },
                         {
@@ -4636,7 +4639,7 @@
                         {
                             "id": "4902",
                             "name": {
-                                "value": "Op�ra"
+                                "value": "Opera"
                             }
                         },
                         {
@@ -4660,7 +4663,7 @@
                         {
                             "id": "1187",
                             "name": {
-                                "value": "Or�e du Bois"
+                                "value": "Oree du Bois"
                             }
                         },
                         {
@@ -4672,13 +4675,13 @@
                         {
                             "id": "1658",
                             "name": {
-                                "value": "Pac� Cimeti�re"
+                                "value": "Pace Cimetiere"
                             }
                         },
                         {
                             "id": "3513",
                             "name": {
-                                "value": "Painlev�"
+                                "value": "Painleve"
                             }
                         },
                         {
@@ -4696,7 +4699,7 @@
                         {
                             "id": "3506",
                             "name": {
-                                "value": "Parc d'Activit�s"
+                                "value": "Parc d'Activites"
                             }
                         },
                         {
@@ -4762,7 +4765,7 @@
                         {
                             "id": "1159",
                             "name": {
-                                "value": "Paul F�val"
+                                "value": "Paul Feval"
                             }
                         },
                         {
@@ -4828,7 +4831,7 @@
                         {
                             "id": "1603",
                             "name": {
-                                "value": "Piardi�re"
+                                "value": "Piardiere"
                             }
                         },
                         {
@@ -4870,7 +4873,7 @@
                         {
                             "id": "1135",
                             "name": {
-                                "value": "Pileti�re"
+                                "value": "Piletiere"
                             }
                         },
                         {
@@ -4882,7 +4885,7 @@
                         {
                             "id": "1116",
                             "name": {
-                                "value": "Pir�"
+                                "value": "Pire"
                             }
                         },
                         {
@@ -4936,7 +4939,7 @@
                         {
                             "id": "2709",
                             "name": {
-                                "value": "Plardi�re"
+                                "value": "Plardiere"
                             }
                         },
                         {
@@ -4948,7 +4951,7 @@
                         {
                             "id": "1533",
                             "name": {
-                                "value": "Pl�lo Colombier"
+                                "value": "Plelo Colombier"
                             }
                         },
                         {
@@ -5020,7 +5023,7 @@
                         {
                             "id": "1514",
                             "name": {
-                                "value": "Pont de Ch�teaudun"
+                                "value": "Pont de Chateaudun"
                             }
                         },
                         {
@@ -5050,7 +5053,7 @@
                         {
                             "id": "3102",
                             "name": {
-                                "value": "Pont du Gu�"
+                                "value": "Pont du Gue"
                             }
                         },
                         {
@@ -5062,13 +5065,13 @@
                         {
                             "id": "1087",
                             "name": {
-                                "value": "Pont-P�an Mairie"
+                                "value": "Pont-Pean Mairie"
                             }
                         },
                         {
                             "id": "1504",
                             "name": {
-                                "value": "Pont-R�an"
+                                "value": "Pont-Rean"
                             }
                         },
                         {
@@ -5110,7 +5113,7 @@
                         {
                             "id": "3167",
                             "name": {
-                                "value": "Prieur� Forge"
+                                "value": "Prieure Forge"
                             }
                         },
                         {
@@ -5122,55 +5125,55 @@
                         {
                             "id": "1069",
                             "name": {
-                                "value": "Pr� Garel"
+                                "value": "Pre Garel"
                             }
                         },
                         {
                             "id": "1480",
                             "name": {
-                                "value": "Pr� Hervy"
+                                "value": "Pre Hervy"
                             }
                         },
                         {
                             "id": "1071",
                             "name": {
-                                "value": "Pr�fecture - ESC"
+                                "value": "Prefecture - ESC"
                             }
                         },
                         {
                             "id": "3142",
                             "name": {
-                                "value": "Pr�s Verts"
+                                "value": "Pres Verts"
                             }
                         },
                         {
                             "id": "1066",
                             "name": {
-                                "value": "P�tis"
+                                "value": "Patis"
                             }
                         },
                         {
                             "id": "3143",
                             "name": {
-                                "value": "P�tis du Moulinet"
+                                "value": "Patis du Moulinet"
                             }
                         },
                         {
                             "id": "1483",
                             "name": {
-                                "value": "P�tis Roussel"
+                                "value": "Patis Roussel"
                             }
                         },
                         {
                             "id": "1049",
                             "name": {
-                                "value": "P�tis Tatelin"
+                                "value": "Patis Tatelin"
                             }
                         },
                         {
                             "id": "3141",
                             "name": {
-                                "value": "P�tis Tatelin Ev"
+                                "value": "Patis Tatelin Ev"
                             }
                         },
                         {
@@ -5248,13 +5251,13 @@
                         {
                             "id": "1036",
                             "name": {
-                                "value": "Rigourdi�re"
+                                "value": "Rigourdiere"
                             }
                         },
                         {
                             "id": "3112",
                             "name": {
-                                "value": "Rivaudi�re"
+                                "value": "Rivaudiere"
                             }
                         },
                         {
@@ -5320,19 +5323,19 @@
                         {
                             "id": "1441",
                             "name": {
-                                "value": "Romill� Coll�ge"
+                                "value": "Romille College"
                             }
                         },
                         {
                             "id": "1010",
                             "name": {
-                                "value": "Romill� Mairie"
+                                "value": "Romille Mairie"
                             }
                         },
                         {
                             "id": "4801",
                             "name": {
-                                "value": "Romill� Pigeon Blanc"
+                                "value": "Romille Pigeon Blanc"
                             }
                         },
                         {
@@ -5362,7 +5365,7 @@
                         {
                             "id": "1405",
                             "name": {
-                                "value": "Rouaudi�re"
+                                "value": "Rouaudiere"
                             }
                         },
                         {
@@ -5386,31 +5389,31 @@
                         {
                             "id": "9106",
                             "name": {
-                                "value": "Rue de Pac�"
+                                "value": "Rue de Pace"
                             }
                         },
                         {
                             "id": "2453",
                             "name": {
-                                "value": "R�cipon"
+                                "value": "Recipon"
                             }
                         },
                         {
                             "id": "9112",
                             "name": {
-                                "value": "R�publique"
+                                "value": "Republique"
                             }
                         },
                         {
                             "id": "9115",
                             "name": {
-                                "value": "R�sidence Janais"
+                                "value": "Residence Janais"
                             }
                         },
                         {
                             "id": "1386",
                             "name": {
-                                "value": "Sacr�s Coeurs"
+                                "value": "Sacres Coeurs"
                             }
                         },
                         {
@@ -5428,13 +5431,13 @@
                         {
                             "id": "1383",
                             "name": {
-                                "value": "Saint-Conwo�on"
+                                "value": "Saint-Conwoion"
                             }
                         },
                         {
                             "id": "2428",
                             "name": {
-                                "value": "Saint-Exup�ry"
+                                "value": "Saint-Exupery"
                             }
                         },
                         {
@@ -5476,7 +5479,7 @@
                         {
                             "id": "2404",
                             "name": {
-                                "value": "Saint-Sa�ns"
+                                "value": "Saint-Saens"
                             }
                         },
                         {
@@ -5500,7 +5503,7 @@
                         {
                             "id": "1668",
                             "name": {
-                                "value": "Sainte-Th�r�se"
+                                "value": "Sainte-Therese"
                             }
                         },
                         {
@@ -5512,7 +5515,7 @@
                         {
                             "id": "2504",
                             "name": {
-                                "value": "Salmondi�re"
+                                "value": "Salmondiere"
                             }
                         },
                         {
@@ -5548,13 +5551,13 @@
                         {
                             "id": "2537",
                             "name": {
-                                "value": "Servign�"
+                                "value": "Servigne"
                             }
                         },
                         {
                             "id": "1339",
                             "name": {
-                                "value": "Silandi�re"
+                                "value": "Silandiere"
                             }
                         },
                         {
@@ -5596,7 +5599,7 @@
                         {
                             "id": "2526",
                             "name": {
-                                "value": "Stade D�zerseul"
+                                "value": "Stade Dezerseul"
                             }
                         },
                         {
@@ -5608,25 +5611,25 @@
                         {
                             "id": "2521",
                             "name": {
-                                "value": "Su�de"
+                                "value": "Suede"
                             }
                         },
                         {
                             "id": "1648",
                             "name": {
-                                "value": "S�nestrais"
+                                "value": "Senestrais"
                             }
                         },
                         {
                             "id": "2522",
                             "name": {
-                                "value": "S�vigni�re"
+                                "value": "Sevigniere"
                             }
                         },
                         {
                             "id": "1640",
                             "name": {
-                                "value": "S�vign�"
+                                "value": "Sevigne"
                             }
                         },
                         {
@@ -5674,25 +5677,25 @@
                         {
                             "id": "2508",
                             "name": {
-                                "value": "Thorign� Mairie"
+                                "value": "Thorigne Mairie"
                             }
                         },
                         {
                             "id": "1625",
                             "name": {
-                                "value": "Th�baudi�re"
+                                "value": "Thebaudiere"
                             }
                         },
                         {
                             "id": "2510",
                             "name": {
-                                "value": "Tihou�t"
+                                "value": "Tihouit"
                             }
                         },
                         {
                             "id": "1616",
                             "name": {
-                                "value": "Timoni�re"
+                                "value": "Timoniere"
                             }
                         },
                         {
@@ -5704,7 +5707,7 @@
                         {
                             "id": "6012",
                             "name": {
-                                "value": "Torign�"
+                                "value": "Torigne"
                             }
                         },
                         {
@@ -5776,19 +5779,19 @@
                         {
                             "id": "1568",
                             "name": {
-                                "value": "Tr�gain"
+                                "value": "Tregain"
                             }
                         },
                         {
                             "id": "4382",
                             "name": {
-                                "value": "Tr�gor"
+                                "value": "Tregor"
                             }
                         },
                         {
                             "id": "1256",
                             "name": {
-                                "value": "Turbani�re"
+                                "value": "Turbaniere"
                             }
                         },
                         {
@@ -5800,13 +5803,13 @@
                         {
                             "id": "1565",
                             "name": {
-                                "value": "T�l�graphe"
+                                "value": "Telegraphe"
                             }
                         },
                         {
                             "id": "4358",
                             "name": {
-                                "value": "Universit�"
+                                "value": "Universite"
                             }
                         },
                         {
@@ -5836,7 +5839,7 @@
                         {
                             "id": "3716",
                             "name": {
-                                "value": "Vall�e"
+                                "value": "Vallee"
                             }
                         },
                         {
@@ -5950,7 +5953,7 @@
                         {
                             "id": "1201",
                             "name": {
-                                "value": "Village Collectivit�s"
+                                "value": "Village Collectivites"
                             }
                         },
                         {
@@ -5962,7 +5965,7 @@
                         {
                             "id": "1517",
                             "name": {
-                                "value": "Ville Noubl�e"
+                                "value": "Ville Noublee"
                             }
                         },
                         {
@@ -5980,7 +5983,7 @@
                         {
                             "id": "1203",
                             "name": {
-                                "value": "Villejean-Universit�"
+                                "value": "Villejean-Universite"
                             }
                         },
                         {
@@ -5998,13 +6001,13 @@
                         {
                             "id": "1510",
                             "name": {
-                                "value": "Vitr� Danton"
+                                "value": "Vitre Danton"
                             }
                         },
                         {
                             "id": "2811",
                             "name": {
-                                "value": "Vitr� Foulon"
+                                "value": "Vitre Foulon"
                             }
                         },
                         {
@@ -6040,13 +6043,13 @@
                         {
                             "id": "1191",
                             "name": {
-                                "value": "ZA Bourgbarr�"
+                                "value": "ZA Bourgbarre"
                             }
                         },
                         {
                             "id": "1173",
                             "name": {
-                                "value": "ZA L'Hermiti�re"
+                                "value": "ZA L'Hermitiere"
                             }
                         },
                         {

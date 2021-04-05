@@ -9,7 +9,13 @@
                 },
                 {
                     "name": "AMAZON.HelpIntent",
-                    "samples": []
+                    "samples": [
+                        "comment ça marche",
+                        "qu'est ce que je peux faire",
+                        "peux tu m'aider",
+                        "comment ça fonctionne",
+                        "aide"
+                    ]
                 },
                 {
                     "name": "AMAZON.StopIntent",
@@ -40,12 +46,17 @@
                             "name": "busstop",
                             "type": "busstop",
                             "samples": [
+                                "à l'arrêt {busstop}",
                                 "à partir de {busstop}",
                                 "{busstop}"
                             ]
                         }
                     ],
                     "samples": [
+                        "{bus}",
+                        "{bus} à {busstop}",
+                        "prochain bus {bus}",
+                        "prochain {bus}",
                         "prochain {bus} à {busstop}",
                         "quel est le prochain {bus} à {busstop}",
                         "quand passe le prochain {bus} à {busstop}",
@@ -58,6 +69,62 @@
                         "a quelle heure est le prochain bus",
                         "quand passe le prochain bus",
                         "prochain bus"
+                    ]
+                },
+                {
+                    "name": "AddToFavoriteIntent",
+                    "slots": [
+                        {
+                            "name": "busstop",
+                            "type": "busstop"
+                        }
+                    ],
+                    "samples": [
+                        "ajoute un favori",
+                        "ajouter un favori",
+                        "ajoute un arrêt en favori",
+                        "ajouter un arrêt en favori",
+                        "ajoute {busstop} en favori",
+                        "ajouter {busstop} en favori",
+                        "ajoute l'arrêt {busstop} en favori",
+                        "ajouter l'arrêt {busstop} en favori",
+                        "ajoute l'arrêt {busstop} aux favoris",
+                        "ajouter l'arrêt {busstop} aux favoris"
+                    ]
+                },
+                {
+                    "name": "DeleteFavoriteIntent",
+                    "slots": [],
+                    "samples": [
+                        "Supprime mon arrêt favori",
+                        "Supprime mon arrêt de bus favori",
+                        "Supprime mes données",
+                        "Supprime mon favori"
+                    ]
+                },
+                {
+                    "name": "UpcomingFavoriteBusIntent",
+                    "slots": [
+                        {
+                            "name": "bus",
+                            "type": "busline"
+                        }
+                    ],
+                    "samples": [
+                        "le favori",
+                        "l'arrêt favori",
+                        "prochain bus favori",
+                        "prochain bus à l'arrêt favori",
+                        "prochain bus {bus} à l'arrêt favori",
+                        "prochain {bus} à l'arrêt favori",
+                        "quel est le prochain bus à l'arrêt favori",
+                        "quel est le prochain bus {bus} à l'arrêt favori",
+                        "quel est le prochain {bus} à l'arrêt favori",
+                        "quand passe le prochain bus à l'arrêt favori",
+                        "quand passe le prochain bus {bus} à l'arrêt favori",
+                        "quand passe le prochain {bus} à l'arrêt favori",
+                        "a quelle heure arrive le prochain bus à l'arrêt favori",
+                        "a quelle heure est le prochain bus à l'arrêt favori"
                     ]
                 }
             ],
@@ -6098,6 +6165,22 @@
                             }
                         }
                     ]
+                },
+                {
+                    "name": "AddToFavoriteIntent",
+                    "confirmationRequired": false,
+                    "prompts": {},
+                    "slots": [
+                        {
+                            "name": "busstop",
+                            "type": "busstop",
+                            "confirmationRequired": false,
+                            "elicitationRequired": true,
+                            "prompts": {
+                                "elicitation": "Elicit.Slot.961349219141.271017296428"
+                            }
+                        }
+                    ]
                 }
             ],
             "delegationStrategy": "ALWAYS"
@@ -6108,7 +6191,16 @@
                 "variations": [
                     {
                         "type": "PlainText",
-                        "value": "a quel arret ?"
+                        "value": "à quel arrêt ?"
+                    }
+                ]
+            },
+            {
+                "id": "Elicit.Slot.961349219141.271017296428",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "Quel arrêt de bus souhaitez-vous ajouter en favori ?"
                     }
                 ]
             }

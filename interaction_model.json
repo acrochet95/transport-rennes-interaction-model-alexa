@@ -36,6 +36,10 @@
                     "samples": []
                 },
                 {
+                    "name": "AMAZON.FallbackIntent",
+                    "samples": []
+                },
+                {
                     "name": "UpcomingBusIntent",
                     "slots": [
                         {
@@ -48,6 +52,7 @@
                             "samples": [
                                 "à l'arrêt {busstop}",
                                 "à partir de {busstop}",
+                                "à {busstop}",
                                 "{busstop}"
                             ]
                         }
@@ -76,7 +81,13 @@
                     "slots": [
                         {
                             "name": "busstop",
-                            "type": "busstop"
+                            "type": "busstop",
+                            "samples": [
+                                "à partir de {busstop}",
+                                "à l'arrêt {busstop}",
+                                "à {busstop}",
+                                "{busstop}"
+                            ]
                         }
                     ],
                     "samples": [
@@ -89,7 +100,9 @@
                         "ajoute l'arrêt {busstop} en favori",
                         "ajouter l'arrêt {busstop} en favori",
                         "ajoute l'arrêt {busstop} aux favoris",
-                        "ajouter l'arrêt {busstop} aux favoris"
+                        "ajouter l'arrêt {busstop} aux favoris",
+                        "ajoute {busstop} en arrêt favori",
+                        "ajouter {busstop} en arrêt favori"
                     ]
                 },
                 {

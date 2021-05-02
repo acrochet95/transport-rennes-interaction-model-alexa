@@ -19,7 +19,13 @@
                 },
                 {
                     "name": "AMAZON.StopIntent",
-                    "samples": []
+                    "samples": [
+                        "au revoir",
+                        "bye bye",
+                        "arrête",
+                        "exit",
+                        "stop"
+                    ]
                 },
                 {
                     "name": "HelloWorldIntent",
@@ -62,6 +68,7 @@
                         "{bus} à {busstop}",
                         "prochain bus {bus}",
                         "prochain {bus}",
+                        "prochain {bus} {busstop}",
                         "prochain {bus} à {busstop}",
                         "quel est le prochain {bus} à {busstop}",
                         "quand passe le prochain {bus} à {busstop}",
@@ -69,6 +76,7 @@
                         "quel est le prochain bus {bus} à {busstop}",
                         "quand passe le prochain bus à {busstop}",
                         "quel est le prochain bus à {busstop}",
+                        "prochain bus {busstop}",
                         "prochain bus à {busstop}",
                         "a quelle heure arrive le prochain bus",
                         "a quelle heure est le prochain bus",
